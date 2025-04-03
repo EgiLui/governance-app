@@ -41,17 +41,18 @@ The MVP is currently being built using Flutter with planned deployment for Andro
 
 ---
 
-## 📜 License
+## 🔐 Legal & Usage
 
-This project is licensed under the [MIT License](LICENSE).  
-You are free to use, modify, and distribute it with proper attribution.
+This project is **not licensed for reuse or redistribution**.
+
+Please see the [NOTICE.md](./NOTICE.md) file for full copyright and usage terms.
 
 ---
 
 ## 🤝 Contributions
 
 This is a personal learning and strategy-focused project.  
-Feedback is welcome. Contributions will be considered after the MVP is complete.
+Feedback is welcome. External contributions may be considered after the MVP is complete.
 
 ---
 
@@ -71,4 +72,3 @@ Feedback is welcome. Contributions will be considered after the MVP is complete.
 - [ ] Export reports (PDF generation)
 - [ ] Package for Android (via APK)
 - [ ] Publish to GitHub and blog on GovernAI.pro
-
