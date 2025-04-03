@@ -59,7 +59,7 @@ Feedback is welcome. Contributions will be considered after the MVP is complete.
 
 **Egidijus Luinevicius**  
 [GovernAI.pro](https://governai.pro) — data & AI strategy for leadership  
-[LinkedIn Profile](https://www.linkedin.com/in/egidijus-luinevicius)
+[LinkedIn Profile](https://www.linkedin.com/in/egidijuslu/)
 
 ---
 
